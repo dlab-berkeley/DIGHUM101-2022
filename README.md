@@ -38,7 +38,7 @@ The digital and data revolution has begun to transform the study of the humaniti
 
 ### [Binder](https://blog.jupyter.org/mybinder-org-serves-two-million-launches-7543ae498a2a)
 
-Are you having trouble installing Python, importing data, or otherwise running the notebooks? Click this badge to open our notebooks in Binder - no local installations necessary! [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/DIGHUM101-2021/HEAD)
+Are you having trouble installing Python, importing data, or otherwise running the notebooks? Click this badge to open our notebooks in Binder - no local installations necessary! [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/DIGHUM101-2022/HEAD)
 
 *****
 These materials were created by Evan Muzzall, 2018-2021, and Brooks Jessup, 2022
