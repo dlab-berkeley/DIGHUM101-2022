@@ -36,9 +36,9 @@ The digital and data revolution has begun to transform the study of the humaniti
 
 - **requirements.txt**  Python libraries that binder should use.
 
-### [Binder](https://blog.jupyter.org/mybinder-org-serves-two-million-launches-7543ae498a2a)
+### DataHub
 
-Are you having trouble installing Python, importing data, or otherwise running the notebooks? Click this badge to open our notebooks in Binder - no local installations necessary! [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/DIGHUM101-2022/HEAD)
+Are you having trouble installing Python, importing data, or otherwise running the notebooks? Click this badge to open our notebooks in Berkeley DataHub - no local installations necessary! [![DataHub](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FDIGHUM101-2022&urlpath=lab%2Ftree%2FDIGHUM101-2022%2F)
 
 *****
 These materials were created by Evan Muzzall, 2018-2021, and Brooks Jessup, 2022
