@@ -1,15 +1,49 @@
-# DIGHUM101-2022
+
+# DIGHUM101-2022: Practicing the Digital Humanities (Practicum)
 
 [Practicing the Digital Humanities, UC Berkeley Summer Session 2022](https://classes.berkeley.edu/content/2022-summer-dighum-101-001-lec-001)
--  Tom Van Nuenen
+Instructor: 
+Tom van Nuenen, PhD  
+[UC Berkeley D-Lab](https://dlab.berkeley.edu/)
 - May 23 2022 - Jul 01 2022
 - M, TU, W, TH
 - 1:00 pm - 2:59 pm
 - Internet/Online
 
+![dogreading](Img/giphy-dog.gif)
+
+### Course overview
 The digital and data revolution has begun to transform the study of the humanities by introducing new archival data sources, tools and methods, and modes of analysis. In this applied course, students will use tools and data of ongoing projects associated with the Digital Humanities at Berkeley and beyond to explore the scope of the field, and to gain a foundational knowledge of several digital tools through hands-on work.  By the end of this course, students will have a firm grasp of the fundamentals of popular digital humanities methods such as archival methods and Text Encoding Initiative guidelines, computational text analysis, network analysis, and geospatial analysis.
 
-# Past Courses
+
+### The structure of this GitHub repository is as follows:
+
+### Directories
+- **Data/**  The Data directory contains several example datasets we will work through together during class time and for challenge questions. Think bigger for your project! 
+
+- **Files/**  Houses the syllabus, University legal language, and a few resources that are posted to bCourses.  
+
+- **Img/**  Has the images used throughout this repository. 
+
+- **Notebooks/**  Your Jupyter Notebooks, challenge questions, and solutions. 
+
+### Files
+- **.gitignore**  A file for ignoring changes to this repository
+
+- **1-1setup.pdf**  Read this first! 
+
+- **README.md**  Contains the text on this page. 
+
+- **requirements.txt**  Python libraries that binder should use.
+
+### [Binder](https://blog.jupyter.org/mybinder-org-serves-two-million-launches-7543ae498a2a)
+
+Are you having trouble installing Python, importing data, or otherwise running the notebooks? Click this badge to open our notebooks in Binder - no local installations necessary! [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/DIGHUM101-2021/HEAD)
+
+*****
+These materials were created by Evan Muzzall, 2018-2021, and Brooks Jessup, 2022
+
+### Past Courses
 - https://github.com/dlab-berkeley/DIGHUM101-2021
 - https://github.com/dlab-berkeley/DIGHUM101-2020
 - https://github.com/dlab-berkeley/DIGHUM101-2019
