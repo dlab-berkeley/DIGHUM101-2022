@@ -2,8 +2,9 @@
 # DIGHUM101-2022: Practicing the Digital Humanities (Practicum)
 
 [Practicing the Digital Humanities, UC Berkeley Summer Session 2022](https://classes.berkeley.edu/content/2022-summer-dighum-101-001-lec-001)
-Instructor: 
-Tom van Nuenen, PhD  
+
+Instructor: Tom van Nuenen, PhD  
+
 [UC Berkeley D-Lab](https://dlab.berkeley.edu/)
 - May 23 2022 - Jul 01 2022
 - M, TU, W, TH
