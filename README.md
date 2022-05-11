@@ -38,12 +38,11 @@ The digital and data revolution has begun to transform the study of the humaniti
 
 ### DataHub
 
-Are you having trouble installing Python, importing data, or otherwise running the notebooks? Click [this link](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FDIGHUM101-2022&urlpath=lab%2Ftree%2FDIGHUM101-2022%2F) to open our notebooks in Berkeley DataHub - no local installations necessary! 
-
-*****
-These materials were created by Evan Muzzall, 2018-2021, and Brooks Jessup, 2022
+Are you having trouble installing Python, importing data, or otherwise running the notebooks? Click [this link](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FDIGHUM101-2022&urlpath=lab%2Ftree%2FDIGHUM101-2022%2F) to open our notebooks in Berkeley DataHub, which allows you to run the notebooks in the cloud (Berkeley account required).
 
 ### Past Courses
+These materials were created by Evan Muzzall, 2018-2021, and Brooks Jessup, 2022
+
 - https://github.com/dlab-berkeley/DIGHUM101-2021
 - https://github.com/dlab-berkeley/DIGHUM101-2020
 - https://github.com/dlab-berkeley/DIGHUM101-2019
