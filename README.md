@@ -35,7 +35,7 @@ The digital and data revolution has begun to transform the study of the humaniti
 
 - **README.md**  Contains the text on this page. 
 
-- **requirements.txt**  Python libraries that binder should use.
+- **requirements.txt**  Python libraries used in the notebooks.
 
 ### DataHub
 
