@@ -11,6 +11,8 @@ Instructor: [Tom van Nuenen, PhD](https://uk.linkedin.com/in/tomvannuenen)
 - 1:00 pm - 2:59 pm
 - Internet/Online
 
+# Welcome to DIGHUM101!
+
 ![catreading](Img/cat-reads-reading.gif)
 
 ### Course overview
