@@ -11,7 +11,7 @@ Instructor: [Tom van Nuenen, PhD](https://uk.linkedin.com/in/tomvannuenen)
 - 1:00 pm - 2:59 pm
 - Internet/Online
 
-![dogreading](Img/giphy-dog.gif)
+![catreading](Img/cat-reads-reading.gif)
 
 ### Course overview
 The digital and data revolution has begun to transform the study of the humanities by introducing new archival data sources, tools and methods, and modes of analysis. In this applied course, students will use tools and data of ongoing projects associated with the Digital Humanities at Berkeley and beyond to explore the scope of the field, and to gain a foundational knowledge of several digital tools through hands-on work.  By the end of this course, students will have a firm grasp of the fundamentals of popular digital humanities methods such as archival methods and Text Encoding Initiative guidelines, computational text analysis, network analysis, and geospatial analysis.

@@ -48,13 +48,14 @@ and then type
 
 [terminal-mac-cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet)
 
-# Bash Challenge 4 - going even further with the vim text editor
+# Bash Challenge 4 - going even further with text editors
 
 1. [Learn the basics of the built-in text editor vim](https://www.linux.com/training-tutorials/vim-101-beginners-guide-vim/) by clicking the hyperlink.
+2. [Check out nano, another text editor for terminal](https://www.hostinger.com/tutorials/how-to-install-and-use-nano-text-editor)
 
 # Bash Challenge 5 - going way further with [gnuplot](http://www.gnuplot.info/)
 
-> NOTE: requires [homebrew](https://brew.sh/) installation
+> NOTE: requires [homebrew](https://brew.sh/) installation, as well as Apple Command Line tools on Mac
 
 brew install gnuplot
 
