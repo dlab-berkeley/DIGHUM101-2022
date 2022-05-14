@@ -128,27 +128,31 @@ For example:
 
 5. Type **git pull** to ensure you have the latest remote version of the repository
 
+
+
 ### 2. Before you create your own repository, familiarize yourself with the basic workflow jargons!
 
-### Fork → Clone → Pull → Stage → Commit → Push → Pull request → Merge
+### Fork → Clone → Pull → Stage/Add → Commit → Push → Pull request → Merge
 
-**Fork:** A copy of a repository; you can experiment freely without affecting the original repository. You can fork a repository to make proposed changes. 
+A fork creates a completely independent copy of Git repository. In contrast to a fork, a Git clone creates a linked copy that will continue to synchronize with the target repository
 
-**Clone:** Download an existing Git repository to your local computer, while the original still lives on the remote server. 
+**Fork:** An *independent copy* of a repository; you can experiment freely without affecting the original repository. You can fork a repository to make proposed changes. 
 
-**Pull:** synchronize your local repository with changes in the central upstream repo (even though it is cloned from the origin) ... (and pushed to the fork!)
+**Clone:** A *linked copy* of a repository that will continue to synchronize with the target repository.
 
-> NOTE: The **Origin** is the URL of the upstream repopsitory, but the **Upstream** is the maintainer's repository; once cloned, the origin becomes wherever it was cloned from. 
+**Pull:** Fetch and download content from a remote repository and immediately update the local repository to match that content.
 
-**Stage:** Designate altered files to be included in the next commit.
+**Stage/Add:** Add your modified files to the queue to be committed later. Files are not committed.
 
-**Commit:** Revisions to a file/set of files that creates a unique ID of those changes ("hash") to track changes that are pushed. 
+**Commit:** Capturing the state of a project, including all the files that have been added/altered/deleted. `Commit` creates a new revision with a unique ID of those changes ("hash"). If you do not add any files, git will not commit anything. 
 
 **Push:** Send your committed local changes to a remote repository. 
 
 **Pull request:** A way to communicate changes you wish to make to a repository, used to facilitate discussion with collaborators and additional commits before it is merged into the master branch. 
 
 **Merge:** Turning a pull request's changes into a single commit and merged into the master branch. 
+
+
 
 ### 3. Simplifying this process in five steps:
 
@@ -174,6 +178,9 @@ For example:
 
 *****
 
-# You try it! Complete Git Challenges 1 and 2 from the git_challenge.md file
+# You try it! Complete Git Challenges 1 and 2 from the git_challenge.md file.
 
 *****
+
+If you want to learn more about Bash and Git, the D-lab offers an entire workshop. 
+See https://github.com/dlab-berkeley/Bash-Git
