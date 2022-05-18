@@ -6,6 +6,9 @@
 Instructor: [Tom van Nuenen, PhD](https://uk.linkedin.com/in/tomvannuenen)
 
 [UC Berkeley D-Lab](https://dlab.berkeley.edu/)
+![dh-berkeley](Img/dhlogo.png)
+
+
 - May 23 2022 - Jul 01 2022
 - M, TU, W, TH
 - 1:00 pm - 2:59 pm
