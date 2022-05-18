@@ -6,8 +6,6 @@
 Instructor: [Tom van Nuenen, PhD](https://uk.linkedin.com/in/tomvannuenen)
 
 [UC Berkeley D-Lab](https://dlab.berkeley.edu/)
-![dh-berkeley](Img/dhlogo.png)
-
 
 - May 23 2022 - Jul 01 2022
 - M, TU, W, TH
@@ -52,3 +50,6 @@ These materials were created by Evan Muzzall, 2018-2021, and Brooks Jessup, 2022
 - https://github.com/dlab-berkeley/DIGHUM101-2020
 - https://github.com/dlab-berkeley/DIGHUM101-2019
 - https://github.com/dlab-berkeley/DIGHUM101-2018
+
+![dh-berkeley](Img/dhlogo.png)
+
