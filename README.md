@@ -50,6 +50,3 @@ Parts of these materials were created by Evan Muzzall, 2018-2021, and Brooks Jes
 - https://github.com/dlab-berkeley/DIGHUM101-2020
 - https://github.com/dlab-berkeley/DIGHUM101-2019
 - https://github.com/dlab-berkeley/DIGHUM101-2018
-
-![dh-berkeley](Img/dhlogo.png)
-
