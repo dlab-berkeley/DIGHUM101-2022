@@ -166,7 +166,7 @@ A fork creates a completely independent copy of Git repository. In contrast to a
 
 5. **refresh** your GitHub repository URL to see the changes! 
 
-### 4. Other usefull functions
+### 4. Other useful functions
 
 **git status** view files ready to be committed; run this after the "git add" function
 
