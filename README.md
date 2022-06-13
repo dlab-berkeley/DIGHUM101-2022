@@ -3,7 +3,7 @@
 
 [Practicing the Digital Humanities, UC Berkeley Summer Session 2022](https://classes.berkeley.edu/content/2022-summer-dighum-101-001-lec-001)
 
-Instructor: [Tom van Nuenen](https://uk.linkedin.com/in/tomvannuenen)
+Instructor: [Tom van Nuenen, PhD](https://uk.linkedin.com/in/tomvannuenen)
 
 [UC Berkeley D-Lab](https://dlab.berkeley.edu/)
 
